@@ -1,0 +1,6 @@
+D:\Git\VsProject\UwinWap\UwinWap\bin\UwinWap.dll
+D:\Git\VsProject\UwinWap\UwinWap\bin\UwinWap.pdb
+D:\Git\VsProject\UwinWap\UwinWap\obj\Release\UwinWap.dll
+D:\Git\VsProject\UwinWap\UwinWap\obj\Release\UwinWap.pdb
+D:\Git\VsProject\UwinWap\UwinWap\bin\UwinWap.dll.config
+D:\Git\VsProject\UwinWap\UwinWap\obj\Release\UwinWap.csprojResolveAssemblyReference.cache

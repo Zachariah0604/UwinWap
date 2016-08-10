@@ -1,0 +1,289 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!--
+您 Web 项目的发布/打包进程将使用此文件。您可以通过编辑此 MSBuild 文件
+来自定义该进程的行为。若要了解与此相关的详细信息，请访问 http://go.microsoft.com/fwlink/?LinkID=208121。
+-->
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <TimeStampOfAssociatedLegacyPublishXmlFile />
+    <_PublishTargetUrl>D:\VisualStudioPublish\UwinWap</_PublishTargetUrl>
+  </PropertyGroup>
+  <ItemGroup>
+    <File Include="AboutApp.aspx">
+      <publishTime>06/27/2016 11:23:31</publishTime>
+    </File>
+    <File Include="Activity.aspx">
+      <publishTime>07/01/2016 10:48:11</publishTime>
+    </File>
+    <File Include="Article.aspx">
+      <publishTime>06/23/2016 15:41:53</publishTime>
+    </File>
+    <File Include="bin/AjaxControlToolkit.dll">
+      <publishTime>02/01/2007 14:46:02</publishTime>
+    </File>
+    <File Include="bin/App_Code.compiled">
+      <publishTime>07/01/2016 16:31:56</publishTime>
+    </File>
+    <File Include="bin/App_Code.dll">
+      <publishTime>07/01/2016 16:31:56</publishTime>
+    </File>
+    <File Include="bin/UwinWap.dll">
+      <publishTime>07/01/2016 16:31:55</publishTime>
+    </File>
+    <File Include="Brand.aspx">
+      <publishTime>07/01/2016 12:32:36</publishTime>
+    </File>
+    <File Include="CategoryPar.aspx">
+      <publishTime>07/01/2016 10:49:11</publishTime>
+    </File>
+    <File Include="CategorySub.aspx">
+      <publishTime>07/01/2016 10:49:27</publishTime>
+    </File>
+    <File Include="css/brand/index.css">
+      <publishTime>06/22/2016 10:24:06</publishTime>
+    </File>
+    <File Include="css/cart/index.css">
+      <publishTime>06/22/2016 10:24:06</publishTime>
+    </File>
+    <File Include="css/com/com.css">
+      <publishTime>07/01/2016 11:45:54</publishTime>
+    </File>
+    <File Include="css/good/index.css">
+      <publishTime>06/22/2016 15:54:25</publishTime>
+    </File>
+    <File Include="css/help/app.css">
+      <publishTime>06/30/2016 17:20:20</publishTime>
+    </File>
+    <File Include="css/help/weixin.css">
+      <publishTime>06/22/2016 10:24:06</publishTime>
+    </File>
+    <File Include="css/home/index.css">
+      <publishTime>07/01/2016 12:28:54</publishTime>
+    </File>
+    <File Include="css/jquery.mobile-1.4.5.min.css">
+      <publishTime>07/01/2016 11:39:31</publishTime>
+    </File>
+    <File Include="css/list/style.css">
+      <publishTime>06/22/2016 17:11:04</publishTime>
+    </File>
+    <File Include="css/login/index.css">
+      <publishTime>06/22/2016 10:24:06</publishTime>
+    </File>
+    <File Include="css/member/about.css">
+      <publishTime>06/22/2016 10:24:06</publishTime>
+    </File>
+    <File Include="css/MsgAlert.css">
+      <publishTime>07/01/2016 15:57:43</publishTime>
+    </File>
+    <File Include="css/topic/index.css">
+      <publishTime>06/22/2016 10:24:06</publishTime>
+    </File>
+    <File Include="css/tuan/tuan.css">
+      <publishTime>06/27/2016 10:35:07</publishTime>
+    </File>
+    <File Include="css/usercenter/common_pc.css">
+      <publishTime>07/01/2016 10:13:48</publishTime>
+    </File>
+    <File Include="css/usercenter/m-index.css">
+      <publishTime>06/23/2016 16:10:32</publishTime>
+    </File>
+    <File Include="css/Vedio/Vedio.css">
+      <publishTime>06/23/2016 13:03:10</publishTime>
+    </File>
+    <File Include="Global.Master">
+      <publishTime>07/01/2016 14:44:43</publishTime>
+    </File>
+    <File Include="GraphicDetails.aspx">
+      <publishTime>07/01/2016 10:49:36</publishTime>
+    </File>
+    <File Include="images/38da04740cc453c4d57b15a13cee25a8.png">
+      <publishTime>06/27/2016 11:00:35</publishTime>
+    </File>
+    <File Include="images/39acbd0cdc186f0ffdcae2844ebe92e0_03.jpg">
+      <publishTime>06/27/2016 10:51:59</publishTime>
+    </File>
+    <File Include="images/7a1bbe3fca0b07dc48d869d473da4c7d.jpg">
+      <publishTime>06/27/2016 10:45:05</publishTime>
+    </File>
+    <File Include="images/831cf6da0f28321f9cdae28402866750.jpg">
+      <publishTime>06/27/2016 10:55:33</publishTime>
+    </File>
+    <File Include="images/831cf6da0f28321f9cdae28402866750_2.jpg">
+      <publishTime>06/27/2016 10:56:43</publishTime>
+    </File>
+    <File Include="images/831cf6da0f28321f9cdae28402866750_4.jpg">
+      <publishTime>06/27/2016 10:59:12</publishTime>
+    </File>
+    <File Include="images/ajax-loader.gif">
+      <publishTime>07/01/2016 10:43:11</publishTime>
+    </File>
+    <File Include="images/cart/index.gif">
+      <publishTime>06/22/2016 10:24:17</publishTime>
+    </File>
+    <File Include="images/delete.png">
+      <publishTime>06/24/2016 19:13:57</publishTime>
+    </File>
+    <File Include="images/edit.png">
+      <publishTime>06/24/2016 19:06:32</publishTime>
+    </File>
+    <File Include="images/f51803d41be189713961fd50f0e7125c.jpg">
+      <publishTime>06/27/2016 11:06:46</publishTime>
+    </File>
+    <File Include="images/good/index.gif">
+      <publishTime>06/22/2016 10:24:17</publishTime>
+    </File>
+    <File Include="images/help/weixin.jpg">
+      <publishTime>06/22/2016 10:24:17</publishTime>
+    </File>
+    <File Include="images/home/index.gif%4011">
+      <publishTime>06/27/2016 15:03:10</publishTime>
+    </File>
+    <File Include="images/login/index.gif%401">
+      <publishTime>06/22/2016 10:24:17</publishTime>
+    </File>
+    <File Include="images/public/empty-2X1.gif">
+      <publishTime>06/22/2016 10:24:17</publishTime>
+    </File>
+    <File Include="images/public/home.png">
+      <publishTime>06/22/2016 11:04:03</publishTime>
+    </File>
+    <File Include="images/public/loading.gif">
+      <publishTime>06/22/2016 10:24:17</publishTime>
+    </File>
+    <File Include="images/public/plugmenu1.png">
+      <publishTime>06/22/2016 11:04:03</publishTime>
+    </File>
+    <File Include="images/public/plugmenu17.png">
+      <publishTime>06/22/2016 11:04:03</publishTime>
+    </File>
+    <File Include="images/public/plugmenu3.png">
+      <publishTime>06/22/2016 11:04:03</publishTime>
+    </File>
+    <File Include="images/public/plugmenu5.png">
+      <publishTime>06/22/2016 11:04:03</publishTime>
+    </File>
+    <File Include="images/public/plugmenu6.png">
+      <publishTime>06/22/2016 11:04:03</publishTime>
+    </File>
+    <File Include="images/public/plugmenu7.png">
+      <publishTime>06/22/2016 11:04:03</publishTime>
+    </File>
+    <File Include="images/public/plugmenu9.png">
+      <publishTime>06/22/2016 11:04:03</publishTime>
+    </File>
+    <File Include="images/public/public.gif%402">
+      <publishTime>06/27/2016 14:50:39</publishTime>
+    </File>
+    <File Include="index.aspx">
+      <publishTime>07/01/2016 12:36:08</publishTime>
+    </File>
+    <File Include="ItemDetail.aspx">
+      <publishTime>07/01/2016 11:21:09</publishTime>
+    </File>
+    <File Include="ItemsList.aspx">
+      <publishTime>07/01/2016 10:51:13</publishTime>
+    </File>
+    <File Include="js/brand/index.js">
+      <publishTime>06/22/2016 10:24:27</publishTime>
+    </File>
+    <File Include="js/cart/index.js">
+      <publishTime>06/22/2016 10:24:27</publishTime>
+    </File>
+    <File Include="js/com/com.js">
+      <publishTime>06/22/2016 10:24:27</publishTime>
+    </File>
+    <File Include="js/com/index.js">
+      <publishTime>06/22/2016 10:24:27</publishTime>
+    </File>
+    <File Include="js/com/jquery.touchslider.min.js">
+      <publishTime>06/22/2016 10:24:27</publishTime>
+    </File>
+    <File Include="js/good/index.js">
+      <publishTime>06/22/2016 10:24:27</publishTime>
+    </File>
+    <File Include="js/home/index.js">
+      <publishTime>06/22/2016 10:24:27</publishTime>
+    </File>
+    <File Include="js/jquery.min.js">
+      <publishTime>07/01/2016 09:26:18</publishTime>
+    </File>
+    <File Include="js/jquery.mobile-1.4.5.min.js">
+      <publishTime>07/01/2016 11:25:17</publishTime>
+    </File>
+    <File Include="js/login/index.js">
+      <publishTime>06/22/2016 10:24:27</publishTime>
+    </File>
+    <File Include="js/login/px-verify.js">
+      <publishTime>06/22/2016 17:06:29</publishTime>
+    </File>
+    <File Include="js/login/register.js">
+      <publishTime>06/22/2016 10:24:27</publishTime>
+    </File>
+    <File Include="js/MsgAlert.js">
+      <publishTime>07/01/2016 16:17:43</publishTime>
+    </File>
+    <File Include="NewsList.aspx">
+      <publishTime>07/01/2016 10:51:37</publishTime>
+    </File>
+    <File Include="NewsType.aspx">
+      <publishTime>07/01/2016 10:51:46</publishTime>
+    </File>
+    <File Include="PrecompiledApp.config">
+      <publishTime>07/01/2016 16:31:55</publishTime>
+    </File>
+    <File Include="Register.aspx">
+      <publishTime>07/01/2016 11:30:20</publishTime>
+    </File>
+    <File Include="SelectStation.aspx">
+      <publishTime>07/01/2016 10:55:40</publishTime>
+    </File>
+    <File Include="ShowMessage.htm">
+      <publishTime>07/01/2016 13:59:19</publishTime>
+    </File>
+    <File Include="TopMenu.ascx">
+      <publishTime>07/01/2016 16:31:49</publishTime>
+    </File>
+    <File Include="user/SNWebService.asmx">
+      <publishTime>06/27/2016 08:55:36</publishTime>
+    </File>
+    <File Include="user/User.Master">
+      <publishTime>07/01/2016 13:18:59</publishTime>
+    </File>
+    <File Include="user/UserActivity.aspx">
+      <publishTime>06/24/2016 16:04:25</publishTime>
+    </File>
+    <File Include="user/UserAddress.aspx">
+      <publishTime>06/27/2016 10:17:03</publishTime>
+    </File>
+    <File Include="user/UserAddressAdd.aspx">
+      <publishTime>06/27/2016 09:53:41</publishTime>
+    </File>
+    <File Include="user/UserAddressEdit.aspx">
+      <publishTime>06/27/2016 10:08:56</publishTime>
+    </File>
+    <File Include="user/UserCart.aspx">
+      <publishTime>06/24/2016 16:03:26</publishTime>
+    </File>
+    <File Include="user/UserInfo.aspx">
+      <publishTime>06/24/2016 17:12:02</publishTime>
+    </File>
+    <File Include="user/UserOrder.aspx">
+      <publishTime>06/27/2016 10:34:21</publishTime>
+    </File>
+    <File Include="user/UserPassword.aspx">
+      <publishTime>06/24/2016 17:01:50</publishTime>
+    </File>
+    <File Include="UserIndex.aspx">
+      <publishTime>07/01/2016 13:31:41</publishTime>
+    </File>
+    <File Include="UserLogin.aspx">
+      <publishTime>07/01/2016 11:35:38</publishTime>
+    </File>
+    <File Include="Vedio.aspx">
+      <publishTime>07/01/2016 12:30:51</publishTime>
+    </File>
+    <File Include="Web.config">
+      <publishTime>06/30/2016 17:26:44</publishTime>
+    </File>
+  </ItemGroup>
+</Project>

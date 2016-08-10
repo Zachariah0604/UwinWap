@@ -1,0 +1,22 @@
+﻿
+#dvMsgBox{display:none;position:absolute;font-size:14px;width:300px;overflow:hidden;z-index:999; }  
+#dvMsgBox .top{height:23px;padding-left:6px; float:left; width:100%;}  
+#dvMsgBox .top .right{height:100%;padding-right:6px;}  
+#dvMsgBox .top .right .title{height:100%;line-height:24px;color:#fff;vertical-align:middle;font-weight:bold;overflow:hidden;}  
+#dvMsgBox .body{background:#fff;padding-left:10px; text-align:center;}  
+#dvMsgBox .body .right{background:#fff;margin:auto; width:100%;}  
+#dvMsgBox .body .right .ct{line-height:20px;vertical-align:middle;width:100%; text-align:center;}  
+#dvMsgBox .body .right .ct .pro{width:280px;border:solid 1px #6593cf;height:35px;background:#ff0000;line-height:33px;overflow:hidden;}  
+#dvMsgBox .body .right .ct .pro .bg{width:0%;height:100%;}  
+#dvMsgBox .bottom{background:#fff;padding-left:6px; text-align:center;}  
+#dvMsgBox .bottom .right{width:100%;padding-right:6px;  height:30px;}  
+#dvMsgBox .btn{width:100%; cursor:pointer; color:#fff; border:none; height:30px; text-align:center;background: #ff0000 linear-gradient(to bottom, #ff0000 0%, #ff0000 100%) repeat scroll 0 0;text-align:center;margin:0px; }  
+input.btnfocus{width:100%; border:none; background: #ff0000 linear-gradient(to bottom, #ff0000 0%, #ff0000 100%) repeat scroll 0 0;margin:0px;height:30px; cursor:pointer; color:#fff;}  
+#dvMsgBox .icon{width:32px;height:32px;float:left;margin-right:10px;}  
+#dvMsgBox .error{background:url(icon-error.gif) no-repeat;}  
+#dvMsgBox .info{background:url(icon-info.gif) no-repeat;}  
+#dvMsgBox .warning{background:url(icon-warning.gif) no-repeat;}  
+#dvMsgBox .clear{clear:both;}  
+#dvMsgBox .height{height:16px;line-height:16px; background-color:#ffffff;}  
+#ShowBolightBox{display:none;-moz-opacity:0.5;filter:alpha(opacity=50);opacity:0.5;background-color:#000000;z-index:100;position:absolute;left:0px;top:0px;}
+#dvMsgBtns{ text-align:center; width:100%;}

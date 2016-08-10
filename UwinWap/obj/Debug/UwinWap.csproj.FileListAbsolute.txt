@@ -1,0 +1,5 @@
+D:\Git\VsProject\UwinWap\UwinWap\bin\UwinWap.dll.config
+D:\Git\VsProject\UwinWap\UwinWap\bin\UwinWap.dll
+D:\Git\VsProject\UwinWap\UwinWap\bin\UwinWap.pdb
+D:\Git\VsProject\UwinWap\UwinWap\obj\Debug\UwinWap.dll
+D:\Git\VsProject\UwinWap\UwinWap\obj\Debug\UwinWap.pdb
